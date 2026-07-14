@@ -8,6 +8,7 @@ My solutions of my LeetCode problem solutions and coding practice.
 | ------- |
 | [0001-two-sum](https://github.com/Arya405857/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arya405857/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Arya405857/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,12 @@ My solutions of my LeetCode problem solutions and coding practice.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arya405857/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Arya405857/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Arya405857/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
